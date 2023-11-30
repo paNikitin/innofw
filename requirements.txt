@@ -1,4 +1,6 @@
-ultralytics;
+ultralytics==8.0.125 ; python_version >= "3.8" and python_version < "3.10" \
+    --hash=sha256:b04655d692366415b2cc0a22c42e8344b63ccc38a044539fad7dfde93ab5a079 \
+    --hash=sha256:bedf43e38e0baa99f4283e157174ab2af58faeeaf0566e1cf241575afd2c7ee5
 absl-py==1.3.0 ; python_version >= "3.8" and python_version < "3.10" \
     --hash=sha256:34995df9bd7a09b3b8749e230408f5a2a2dd7a68a0d33c12a3d0cb15a041a507 \
     --hash=sha256:463c38a08d2e4cef6c498b76ba5bd4858e4c6ef51da1a5a1f27139a022e20248
