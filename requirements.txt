@@ -2023,6 +2023,3 @@ yolov5==7.0.7 ; python_version >= "3.8" and python_version < "3.10" \
 zeep==4.1.0 ; python_version >= "3.8" and python_version < "3.10" \
     --hash=sha256:5867f2eadd6b028d9751f4155af590d3aaf9280e3a0ed5e15a53343921c956e5 \
     --hash=sha256:81c491092b71f5b276de8c63dfd452be3f322622c48a54f3a497cf913bdfb2f4
-zipp==3.10.0 ; python_version >= "3.8" and python_version < "3.10" \
-    --hash=sha256:4fcb6f278987a6605757302a6e40e896257570d11c51628968ccb2a47e80c6c1 \
-    --hash=sha256:7a7262fd930bd3e36c50b9a64897aec3fafff3dfdeec9623ae22b40e93f99bb8
